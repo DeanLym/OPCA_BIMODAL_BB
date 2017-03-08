@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C++ Source File">
+<includepath>/data/cees/yiminliu/global/include/simlym</includepath>
+<includepath>/data/cees/yiminliu/global/include/lapack</includepath>
+<includepath>/data/cees/yiminliu/global/include/opca</includepath>
+<includepath>/home/yiminliu/packages/nomad.3.6.2/src</includepath>
+<includepath>/home/yiminliu/packages/boost_1_56_0</includepath>
+<includepath>/usr/local/openmpi-1.10.3_intel16/include</includepath>
+
+</language>
+<language name="C Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C++ Source File">
+
+</language>
+<language name="C Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+</cdtprojectproperties>
